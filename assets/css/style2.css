@@ -1,0 +1,53 @@
+/*=============LOGIN===========*/
+.acontainer{
+    right: 0;
+    left: 0;
+    position: absolute;
+    top: 110px;
+    margin: auto;
+    width: 30%;
+    height:72%;
+    background-color: #00000073;
+    text-align: center;
+    color: #cacaca;
+    border-radius: 35px;
+}
+
+.acontainer img {
+    width: 20%;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.sepatu{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.acard-header {
+    font-size: 25px;
+    padding-bottom:20px;
+}
+
+.aform-group {
+    text-align: left;
+    padding-left:15%;
+    margin-bottom:10px;
+}
+
+.aform-group input {
+    width:80%;
+}
+
+.acontainer button{
+    margin-top:30px;
+    margin-bottom:30px;
+    width:70%;
+}
+
+
+/*============Show chart============*/
